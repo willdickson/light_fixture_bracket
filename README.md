@@ -5,6 +5,10 @@ light fixture.
 # License: 
 Creative Commons Attribution 4.0 International CC BY 4.0
 
-![screenshot3](images/bracket.png)
+![screenshot1](images/bracket1.png)
+
+
+
+![screenshot2](images/bracket2.png)
 
 
